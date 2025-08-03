@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Aditya-Saraswat
-- 👀 I’m interested in math and python
-- 🌱 I’m currently learning opencv
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Doing this because why not?
 
 <!---
 Aditya-Saraswat/Aditya-Saraswat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
